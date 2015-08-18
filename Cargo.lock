@@ -1,4 +1,4 @@
 [root]
-name = "hello_world"
-version = "0.1.0"
+name = "rscalc"
+version = "1.0.0"
 

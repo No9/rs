@@ -1,0 +1,23 @@
+{
+  "name": "rs",
+  "version": "1.0.0",
+  "description": "a sample rust to node app",
+  "main": "index.js",
+  "dependencies": {
+    "ffi": "^1.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/No9/rs.git"
+  },
+  "author": "anton whalley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/No9/rs/issues"
+  },
+  "homepage": "https://github.com/No9/rs#readme"
+}

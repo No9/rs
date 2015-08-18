@@ -1,4 +1,8 @@
 [package]
-name = "hello_world"
-version = "0.1.0"
-authors = ["Your Name <you@example.com>"]
+name = "rscalc"
+version = "1.0.0"
+authors = ["Anton Whalley <anton@venshare.com>"]
+
+[lib]
+name = "rscalc"
+crate-type = ["rlib", "dylib"]
